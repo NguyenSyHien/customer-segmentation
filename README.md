@@ -6,6 +6,7 @@ This portfolio project demonstrates my ability to apply unsupervised machine lea
 The objective of this project is to perform customer segmentation for a company’s marketing campaign data using clustering algorithms, primarily K-Means. By grouping customers with similar characteristics and behaviors, the business can design targeted marketing strategies, improve customer retention, and enhance product recommendations.
 
 📁 Dataset Overview Source: Kaggle - https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/input
+
 Observations: ~2,240 rows
 
 Features:
